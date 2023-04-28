@@ -1,7 +1,7 @@
 
 ### Hello my name is Marcin and I am graduate informatics student with speciality in programming.
 
-I love creating. I am writing a frontend projects and also backend in PHP. Currently mastering learning React, mastering web dev and looking for a job.
+I love creating. I am writing a frontend projects and also backend in PHP. Currently mastering learning React, mastering frontend technologies and looking for a job in web dev.
 <!--I like listen to music of singers France Gall, Francoise Hardy, Nancy Siantra and Julie London -->
 Langauges and tools that I know and use:
 <div>
