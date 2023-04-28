@@ -17,12 +17,12 @@ Langauges and tools that I know and use:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 <br>
-<a href="https://marcin-c-portfolio.vercel.app/">My portfolio</a> <br>
+<a href="https://marcin-c-portfolio.vercel.app/">My portfolio</a><br>
 
 ## Check my projects: 
 
 <h4>Info tech website </h4>
-<!-- <p>React</p> -->
+
 Template of website for informatics services created in React.
 
 :green_circle:<a href="info-tech-website.vercel.app">Check this project online</a> <br>
