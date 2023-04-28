@@ -22,7 +22,7 @@ Langauges and tools that I know and use:
 ## Check my projects: 
 
 <h4>Info tech website </h4>
-
+<!-- <p>React</p> -->
 Template of website for informatics services created in React.
 
 :green_circle:<a href="info-tech-website.vercel.app">Check this project online</a> <br>
