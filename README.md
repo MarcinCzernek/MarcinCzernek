@@ -1,5 +1,5 @@
 
-### Hi there 👋 My name is Marcin and I am graduate informatics student with speciality in programming.
+### Hello my name is Marcin and I am graduate informatics student with speciality in programming.
 
 I love creating. I am writing a frontend projects and also backend in PHP.
 
