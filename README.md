@@ -43,6 +43,19 @@ A template for website of random tourism company written in React.
 
 ## Other projects from beginning of my journey with programming:
 
+<h4>OpenAQ map</h4>
+
+A web application marked on the city data map and displaying the implementation level of the environment in its proprietary version. Take advantage of the environment database - OpenAQ API
+
+:green_circle:<a href="leaflet-javascript-lab3.vercel.app">Check this project online</a> <br>
+:white_circle:<a href="https://github.com/MarcinCzernek/Leaflet_javascript_lab3">Code on Github</a>
+
+<h4>Internet chat</h4>
+
+Responsive website with a login and registration form with the option of adding users. They can post comments in the chat that are filtered and do not allow the use of inappropriate words.
+
+<!-- :green_circle:<a href="leaflet-javascript-lab3.vercel.app">Check this project online</a> <br> -->
+:white_circle:<a href="https://github.com/MarcinCzernek/PAK-project">Code on Github</a>
 
 <!--
 **MarcinCzernek/MarcinCzernek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
