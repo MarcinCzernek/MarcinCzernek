@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Marcin.
 
 I love creating. I am writing a frontend projects and also backend in PHP.
 
@@ -16,10 +16,32 @@ Langauges and tools that I know and use:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-Check my projects:
+## Check my projects: 
+
+<h4>Info tech website </h4>
+
+Template of website for informatics services created in React.
+
+<a href="info-tech-website.vercel.app">Check this project online</a> 
+<a href="https://github.com/MarcinCzernek/info_tech_website">Code on Github</a>
+
+<h4>Cafe Page</h4>
+
+An example of a website for a coffee shop bulid in React.
+
+<a href="cafe-page.vercel.app/">Check this project online</a> 
+<a href="https://github.com/MarcinCzernek/cafe_page">Code on Github</a>
+
+<h4>Traveler website</h4>
+
+A template for website of random tourism company written in React.
+
+<a href="traveler-website.vercel.app">Check this project online</a>
+<a href="https://github.com/MarcinCzernek/traveler_website">Code on Github</a>
 
 
-Other projects from beginning of my journey with programming:
+## Other projects from beginning of my journey with programming:
+
 
 <!--
 **MarcinCzernek/MarcinCzernek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
