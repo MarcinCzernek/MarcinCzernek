@@ -1,4 +1,5 @@
-### Hi there 👋 My name is Marcin and I am granduate informatics student with speciality in programming.
+
+### Hi there 👋 My name is Marcin and I am graduate informatics student with speciality in programming.
 
 I love creating. I am writing a frontend projects and also backend in PHP.
 
@@ -22,22 +23,22 @@ Langauges and tools that I know and use:
 
 Template of website for informatics services created in React.
 
-<a href="info-tech-website.vercel.app">Check this project online</a> 
-<a href="https://github.com/MarcinCzernek/info_tech_website">Code on Github</a>
+:green_circle:<a href="info-tech-website.vercel.app">Check this project online</a> <br>
+:white_circle:<a href="https://github.com/MarcinCzernek/info_tech_website">Code on Github</a>
 
 <h4>Cafe Page</h4>
 
 An example of a website for a coffee shop bulid in React.
 
-<a href="cafe-page.vercel.app/">Check this project online</a> 
-<a href="https://github.com/MarcinCzernek/cafe_page">Code on Github</a>
+:green_circle:<a href="cafe-page.vercel.app/">Check this project online</a> <br>
+:white_circle:<a href="https://github.com/MarcinCzernek/cafe_page">Code on Github</a>
 
 <h4>Traveler website</h4>
 
 A template for website of random tourism company written in React.
 
-<a href="traveler-website.vercel.app">Check this project online</a>
-<a href="https://github.com/MarcinCzernek/traveler_website">Code on Github</a>
+:green_circle:<a href="traveler-website.vercel.app">Check this project online</a><br>
+:white_circle:<a href="https://github.com/MarcinCzernek/traveler_website">Code on Github</a>
 
 
 ## Other projects from beginning of my journey with programming:
