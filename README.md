@@ -1,5 +1,5 @@
 
-### Hello my name is Marcin and I am graduate informatics student with speciality in programming.
+### Hello, my name is Marcin and I am graduate informatics student with speciality in programming.
 
 I love creating. I am writing a frontend projects and also backend in PHP. Currently learning React, mastering frontend technologies and looking for a job in web dev.
 <!--I like listen to music of singers France Gall, Francoise Hardy, Nancy Siantra and Julie London -->
