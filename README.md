@@ -2,7 +2,7 @@
 ### Hello my name is Marcin and I am graduate informatics student with speciality in programming.
 
 I love creating. I am writing a frontend projects and also backend in PHP.
-
+<!--I like listen to music of singers France Gall, Francoise Hardy, Nancy Siantra and Julie London -->
 Langauges and tools that I know and use:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
