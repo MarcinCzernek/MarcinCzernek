@@ -17,9 +17,6 @@ Langauges and tools that I know and use:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-<div>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 ## Check my projects: 
 
@@ -67,6 +64,10 @@ Responsive website with a login and registration form with the option of adding 
 <!-- :green_circle:<a href="leaflet-javascript-lab3.vercel.app">Check this project online</a> <br> -->
 :white_circle:<a href="https://github.com/MarcinCzernek/PAK-project">Code on Github</a>
 
+<div>
+<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MarcinCzernek" />
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcinCzernek" />
+</div>
 <!--
 **MarcinCzernek/MarcinCzernek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
