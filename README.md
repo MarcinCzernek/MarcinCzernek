@@ -25,21 +25,21 @@ Langauges and tools that I know and use:
 
 Template of website for informatics services created in React.
 
-:green_circle:<a href="info-tech-website.vercel.app">Check this project online</a> <br>
+:green_circle:<a href="https://info-tech-website.vercel.app/">Check this project online</a> <br>
 :white_circle:<a href="https://github.com/MarcinCzernek/info_tech_website">Code on Github</a>
 
 <h4>Cafe Page</h4>
 
 An example of a website for a coffee shop bulid in React.
 
-:green_circle:<a href="cafe-page.vercel.app/">Check this project online</a> <br>
+:green_circle:<a href="https://cafe-page.vercel.app/">Check this project online</a> <br>
 :white_circle:<a href="https://github.com/MarcinCzernek/cafe_page">Code on Github</a>
 
 <h4>Traveler website</h4>
 
 A template for website of random tourism company written in React.
 
-:green_circle:<a href="traveler-website.vercel.app">Check this project online</a><br>
+:green_circle:<a href="https://traveler-website.vercel.app/">Check this project online</a><br>
 :white_circle:<a href="https://github.com/MarcinCzernek/traveler_website">Code on Github</a>
 
 <h4>Pomodoro App</h4>
