@@ -2,7 +2,7 @@
 ### Hello, my name is Marcin and I am graduate informatics student with speciality in programming.
 
 I love creating. I am writing a frontend projects and also backend in PHP. Currently learning React, mastering frontend technologies and looking for a job in web dev.
-<!--I like listen to music of singers France Gall, Francoise Hardy, Nancy Siantra and Julie London -->
+<!--I like really like listen to music of singers France Gall, Francoise Hardy, Nancy Siantra and Julie London after working-->
 <br>
 Langauges and tools that I know and use:
 <div>
@@ -19,6 +19,7 @@ Langauges and tools that I know and use:
    <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" title="Gimp" **alt="Gimp" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="Webstorm" **alt="Webstorm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="CorelDRAW" alt="Corel" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
 </div>
 <br>
