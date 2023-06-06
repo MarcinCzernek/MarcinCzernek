@@ -20,8 +20,8 @@ Langauges and tools that I know and use:
    <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="Webstorm" **alt="Webstorm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudioCode" alt="VisualStudioCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Wilberson-Roberto/Wilberson-Roberto/blob/main/img/coreldraw.svg" title="CorelDRAW" alt="CorelDRAW" width="70" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Wilberson-Roberto/Wilberson-Roberto/blob/main/img/coreldraw.svg" title="CorelDRAW" alt="CorelDRAW" width="70" height="60"/>&nbsp;
 </div>
 <br>
 Langauges and tools that I planning to learn:
@@ -36,6 +36,7 @@ Langauges and tools that I planning to learn:
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Threejs" alt="Threejs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="AdobeXD" alt="AdobeXD" width="40" height="40"/>&nbsp;
 </div>
 <br>
 <a href="https://marcin-c-portfolio.vercel.app/">My portfolio</a><br>
