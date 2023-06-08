@@ -40,6 +40,7 @@ Langauges and tools that I planning to learn:
 </div>
 <br>
 <a href="https://marcin-c-portfolio.vercel.app/">My portfolio</a><br>
+<a href="https://codepen.io/Topaze"My Codepen</a>
 
 ## Check my projects: 
 
@@ -97,6 +98,8 @@ Responsive website with a login and registration form with the option of adding 
 <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MarcinCzernek" />
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcinCzernek" />
 </div>
+
+
 <!--
 **MarcinCzernek/MarcinCzernek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
