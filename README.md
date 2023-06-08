@@ -71,6 +71,12 @@ Responsive pomodoro web application that counts down the selected time in minute
 :green_circle:<a href="https://pomodoro-js-ten.vercel.app/">Check this project online</a><br>
 :white_circle:<a href="https://github.com/MarcinCzernek/pomodoro_js">Code on Github</a>
 
+<h4>Shop sport</h4>
+
+Internet shop with sport accessories has a MySQL database with products and users. The user can register and log in and add the product selected on the website to the basket.
+
+:white_circle:<a href="https://github.com/MarcinCzernek/shopSport">Code on Github</a>
+
 ## Other projects from beginning of my journey with programming:
 
 <h4>OpenAQ map</h4>
