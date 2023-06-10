@@ -39,8 +39,8 @@ Langauges and tools that I planning to learn:
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="AdobeXD" alt="AdobeXD" width="40" height="40"/>&nbsp;
 </div>
 <br>
-<a href="https://marcin-c-portfolio.vercel.app/">My portfolio</a><br>
-<a href="https://codepen.io/Topaze"My Codepen</a>
+<a href="https://marcin-c-portfolio.vercel.app/" target="_blank">My portfolio</a><br>
+<a href="https://codepen.io/Topaze" target="_blank">My Codepen</a>
 
 ## Check my projects: 
 
@@ -48,35 +48,35 @@ Langauges and tools that I planning to learn:
 
 Template of website for informatics services created in React.
 
-:green_circle:<a href="https://info-tech-website.vercel.app/">Check this project online</a> <br>
-:white_circle:<a href="https://github.com/MarcinCzernek/info_tech_website">Code on Github</a>
+:green_circle:<a href="https://info-tech-website.vercel.app/" target="_blank">Check this project online</a> <br>
+:white_circle:<a href="https://github.com/MarcinCzernek/info_tech_website" target="_blank">Code on Github</a>
 
 <h4>Cafe Page</h4>
 
 An example of a website for a coffee shop bulid in React.
 
-:green_circle:<a href="https://cafe-page.vercel.app/">Check this project online</a> <br>
-:white_circle:<a href="https://github.com/MarcinCzernek/cafe_page">Code on Github</a>
+:green_circle:<a href="https://cafe-page.vercel.app/" target="_blank">Check this project online</a> <br>
+:white_circle:<a href="https://github.com/MarcinCzernek/cafe_page" target="_blank">Code on Github</a>
 
 <h4>Traveler website</h4>
 
 A template for website of random tourism company written in React.
 
-:green_circle:<a href="https://traveler-website.vercel.app/">Check this project online</a><br>
-:white_circle:<a href="https://github.com/MarcinCzernek/traveler_website">Code on Github</a>
+:green_circle:<a href="https://traveler-website.vercel.app/" target="_blank">Check this project online</a><br>
+:white_circle:<a href="https://github.com/MarcinCzernek/traveler_website" target="_blank">Code on Github</a>
 
 <h4>Pomodoro App</h4>
 
 Responsive pomodoro web application that counts down the selected time in minutes and seconds. Possibility to pause and continue the countdown. After the allotted time has elapsed, the gong sounds.
 
-:green_circle:<a href="https://pomodoro-js-ten.vercel.app/">Check this project online</a><br>
-:white_circle:<a href="https://github.com/MarcinCzernek/pomodoro_js">Code on Github</a>
+:green_circle:<a href="https://pomodoro-js-ten.vercel.app/" target="_blank">Check this project online</a><br>
+:white_circle:<a href="https://github.com/MarcinCzernek/pomodoro_js" target="_blank">Code on Github</a>
 
 <h4>Shop sport</h4>
 
 Internet shop with sport accessories has a MySQL database with products and users. The user can register and log in and add the product selected on the website to the basket.
 
-:white_circle:<a href="https://github.com/MarcinCzernek/shopSport">Code on Github</a>
+:white_circle:<a href="https://github.com/MarcinCzernek/shopSport" target="_blank">Code on Github</a>
 
 ## Other projects from beginning of my journey with programming:
 
@@ -84,8 +84,8 @@ Internet shop with sport accessories has a MySQL database with products and user
 
 A web application marked on the city data map and displaying the implementation level of the environment in its proprietary version. Take advantage of the environment database - OpenAQ API
 
-:green_circle:<a href="leaflet-javascript-lab3.vercel.app">Check this project online</a> <br>
-:white_circle:<a href="https://github.com/MarcinCzernek/Leaflet_javascript_lab3">Code on Github</a>
+:green_circle:<a href="leaflet-javascript-lab3.vercel.app" target="_blank">Check this project online</a> <br>
+:white_circle:<a href="https://github.com/MarcinCzernek/Leaflet_javascript_lab3" target="_blank">Code on Github</a>
 
 <h4>Internet chat</h4>
 
