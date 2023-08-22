@@ -42,7 +42,7 @@ Langauges and tools that I planning to learn:
 <a href="https://marcin-c-portfolio.vercel.app/" target="_blank">My portfolio</a><br>
 <a href="https://codepen.io/Topaze" target="_blank">My Codepen</a>
 
-## Check my projects: 
+## Check out my projects: 
 
 <h4>Info tech website </h4>
 
