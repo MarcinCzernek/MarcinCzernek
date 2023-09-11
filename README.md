@@ -38,9 +38,9 @@ Langauges and tools that I planning to learn:
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Threejs" alt="Threejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="AdobeXD" alt="AdobeXD" width="40" height="40"/>&nbsp;
 </div>
-<br>
-<a href="https://marcin-c-portfolio.vercel.app/" target="_blank" fontsize=50px>My portfolio</a><br>
-<a href="https://codepen.io/Topaze" target="_blank">My Codepen</a>
+<br><br>
+<a href="https://marcin-c-portfolio.vercel.app/" style="font-size: 100px" target="_blank" fontsize=50px>My Portfolio</a><br><br>
+<a href="https://codepen.io/Topaze" style="font-size: 100px" target="_blank">My Codepen</a>
 
 ## Selected projects: 
 :green_circle:<a href="https://info-tech-website.vercel.app/" style="font-size:14px;" target="_blank">Info tech website</a> - template of website for informatics services created in React.<br>
